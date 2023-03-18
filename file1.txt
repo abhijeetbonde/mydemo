@@ -1,3 +1,6 @@
 file 1 content
-Second line to my file
+<<<<<<< HEAD
 second line on main branch
+=======
+Added second line on newbranch
+>>>>>>> new_branch
